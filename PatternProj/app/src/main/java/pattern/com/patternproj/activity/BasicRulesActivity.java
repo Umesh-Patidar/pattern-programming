@@ -13,5 +13,6 @@ public class BasicRulesActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_basic_rules);
         Toast.makeText(this, "Hi I am in BasicRules", Toast.LENGTH_SHORT).show();
+       Log.d("hi","this is me");
     }
 }
