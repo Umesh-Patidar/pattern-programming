@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Pattern Proj</string>
+    <string name="app_heading">PATTERN</string>
+    <string name="app_sub_heading">P R O G R A M M I N G</string>
+    <string name="img_des">pattern_img</string>
+    <string name="btn_one">BASIC RULES</string>
+    <string name="btn_second">EASY MODE</string>
+    <string name="btn_third">MEDIUM MODE</string>
+    <string name="btn_fourth">HARD MODE</string>
+    <string name="btn_patt_one">PATTERN ONE</string>
+    <string name="btn_patt_two">PATTERN TWO</string>
+    <string name="btn_patt_three">PATTERN THREE</string>
+    <string name="btn_patt_four">PATTERN FOUR</string>
+    <string name="btn_patt_five">PATTERN FIVE</string>
+    <string name="btn_patt_six">PATTERN SIX</string>
+    <string name="btn_patt_seven">PATTERN SEVEN</string>
+    <string name="btn_patt_eight">PATTERN EIGHT</string>
+    <string name="btn_patt_nine">PATTERN NINE</string>
+
+
+    <string name="basic_rule">Pattern based exercises are a good way to learn nested loops in Java.
+        A pattern of numbers, star or characters is a way of arranging these in some logical manner or they may form a sequence.
+        \n \nTo print patterns of numbers and stars (*) in Java Programming, you have to use two loops, first is outer loop and the second is inner loop.
+        The outer loop is responsible for rows and the inner loop is responsible for columns.\n \n Outer loop - for row \n inner loop - for column.
+    </string>
+    <string name="basic_rule_para_second">Things to notice in this pattern.\n\n 1.Number of lines. \n 2.Is the number of stars increasing or decreasing per line and by how much?
+        \nAnd that’s it. You can start coding. As you know you’ll need nested loops . The first for loop will tell you about the no. of lines and the second will print the stars.One thing you must keep in mind that the limiting value of the inner for loop must depend on the outer for loop.
+    </string>
+    <string name="basic_rule_para_third">\nThere’s an interesting thing about this pattern. It surely looks different because there are spaces before stars but other than that its same as the previous pattern.
+    You see there are 2 triangles in this pattern. One made my the spaces and another made by the stars.
+    </string>
+    <string name="basic_rule_para_fourth">\nSo there will be 2 for loops inside the outer for loop. The first inner loop will print the spaces and the second one will print the stars. Also we must remember both the loops’ limiting value must depend on ‘i’.</string>
+    <string name="basic_rule_para_five">\n A more complex pattern program.we need to approach it the same way we did the pattern number 2.
+        \n\nMake sure you try to draw it first and check it with this one.Yes there are 6 triangles but out of them only 3 are needed at a time. So we divide the pattern into two halves- top and bottom. And we do both of them separately. There will be 2 outer for loops and there will be 3 nested for loops inside each outer for loop.
+    </string>
+
+
+
+</resources>
